@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Sep 2022 14:44:16 at http://societe-nettoyage-casablanca.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://societe-nettoyage-casablanca.com/ -O1 "C:\Users\hp\Desktop\pns nettoyage\pns nettoyage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:47:10	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js (from societe-nettoyage-casablanca.com/)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js (from societe-nettoyage-casablanca.com/)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-hôtels-casablanca.html (from societe-nettoyage-casablanca.com/)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/assets/js/plugins/jquery.gmap.min.html (from societe-nettoyage-casablanca.com/)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/images/reactivite-nettoyage-casablanca.jpg (from societe-nettoyage-casablanca.com/valeurs-nettoyage-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/cristallisation-marbre-casablanca.html (from societe-nettoyage-casablanca.com/valeurs-nettoyage-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-tapis-casablanca (from societe-nettoyage-casablanca.com/nettoyage-particulier-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-moquette-casablanca (from societe-nettoyage-casablanca.com/nettoyage-particulier-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/cristallisation-poncage-parquet-casablanca (from societe-nettoyage-casablanca.com/nettoyage-particulier-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/cristallisation-poncage-marbre-casablanca (from societe-nettoyage-casablanca.com/nettoyage-particulier-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/cristallisation-poncage-carrelage-casablanca (from societe-nettoyage-casablanca.com/nettoyage-particulier-casablanca.html)
+14:57:29	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/cristallisation-poncage-mosaique-casablanca (from societe-nettoyage-casablanca.com/nettoyage-particulier-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/assets/jas/jquery.html (from societe-nettoyage-casablanca.com/nettoyage-villas-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-entretien-sol-casablanca.html (from societe-nettoyage-casablanca.com/societe-nettoyage-entretien-sol-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-cristallisation-marbre-casablanca.html (from societe-nettoyage-casablanca.com/societe-nettoyage-entretien-sol-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-cristallisation-carrelage-casablanca.html (from societe-nettoyage-casablanca.com/societe-nettoyage-entretien-sol-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-poncage-parquet-casablanca.html (from societe-nettoyage-casablanca.com/societe-nettoyage-entretien-sol-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-cristallisation-mosaique-casablanca.html (from societe-nettoyage-casablanca.com/societe-nettoyage-entretien-sol-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-moquette-casablanca-maroc.html (from societe-nettoyage-casablanca.com/societe-nettoyage-moquette-casablanca-maroc.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/nettoyage-tapis-casablanca.html (from societe-nettoyage-casablanca.com/societe-nettoyage-tapis-casablanca.html)
+14:57:39	Error: 	"Not Found" (404) at link societe-nettoyage-casablanca.com/Nettoyage-Degraissage-hottes-casablanca.html (from societe-nettoyage-casablanca.com/societe-Nettoyage-Degraissage-hottes-casablanca.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 36 seconds : 243 links scanned, 221 files written (21723384 bytes overall) [21470140 bytes received at 26311 bytes/sec], 426254 bytes transferred using HTTP compression in 5 files, ratio 24%, 2.3 requests per connection
+(21 errors, 0 warnings, 0 messages)

@@ -1,0 +1,2 @@
+user-agent: *
+Sitemap: https://www.deratisation-casablanca-maroc.com/sitemap.xml
